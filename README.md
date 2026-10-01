@@ -159,7 +159,3 @@ Keep substantial projects in their own folder and update the nearest map or READ
 ## Acknowledgement
 
 This archive records coursework and practice from the Career Point University Agentic AI in-house internship. Instructor notes and external resources remain subject to their original ownership and terms.
-#   C P U _ W o r k s h o p  
- #   C P U _ W o r k s h o p  
- #   C P U _ W o r k s h o p  
- 
